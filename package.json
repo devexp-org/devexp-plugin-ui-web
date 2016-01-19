@@ -1,11 +1,11 @@
 {
-  "name": "devexp",
+  "name": "devexp-plugin-ui-web",
   "author": "Stanislav Sysoev <d4rkr00t@gmail.com> (http://sysoev.org)",
   "license": "MIT",
   "version": "0.1.0",
-  "description": "Developer Experiments",
+  "description": "Developer Experiments Plugin",
   "repository": {
-    "url": "https://github.com/devexp-org/devexp"
+    "url": "https://github.com/devexp-org/devexp-plugin-ui-web"
   },
   "main": "app.js",
   "pre-commit": [
